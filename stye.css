@@ -74,7 +74,8 @@ input:focus{
     padding-bottom:0.5rem;
    
     cursor:pointer;
-   margin-top: 3rem;
+   margin-top: 2rem;
+    margin-bottom:1rem;
 display:none;
 margin-left:47%;
 
